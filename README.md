@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z-o-n-n-e
 - 👀 I’m interested in RUST
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :qq 1545589093
 
