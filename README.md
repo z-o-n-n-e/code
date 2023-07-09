@@ -2,7 +2,7 @@
 - 👀 I’m interested in RUST
 - 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :qq 1545589093
+- 📫 How to reach me :qq 1545589093.
 
 <!---
 z-o-n-n-e/z-o-n-n-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
